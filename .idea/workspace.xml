@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -156,5 +161,31 @@
       <updated>1572482991570</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1602765185740">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="203" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1602765185740" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1602765361769">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1602765361769" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1602765361765">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1602765361765" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1602765361761">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1602765361761" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1602765361767">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1602765361767" />
+    <state x="490" y="312" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602765385899">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="490" y="312" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1294.741@72.27.1294.741" timestamp="1602765385899" />
   </component>
 </project>
