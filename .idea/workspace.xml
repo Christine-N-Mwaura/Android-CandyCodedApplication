@@ -14,8 +14,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,10 +163,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="203" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1602765185740">
+    <state x="203" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1602771371241">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="203" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1602765185740" />
+    <state x="203" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1602771371241" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1602765361769">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
